@@ -10,6 +10,7 @@ namespace Taller2D252VIrtualGitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo");
         }
     }
 }
